@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+<title id="title">Glean Impact — Building businesses. Growing possibility.</title>
+<desc id="desc">An olive and cream editorial banner with an abstract growing plant. Technology, partnership, and capital for social good.</desc>
+<rect width="1280" height="440" rx="24" fill="#F4F1E7"/>
+<path d="M900 0H1256Q1280 0 1280 24V416Q1280 440 1256 440H900Z" fill="#555E36"/>
+<circle cx="1090" cy="213" r="154" fill="none" stroke="#778057" stroke-width="1"/>
+<circle cx="1090" cy="213" r="119" fill="none" stroke="#778057" stroke-width="1"/>
+<path d="M1090 335V118" stroke="#F4F1E7" stroke-width="5" fill="none"/>
+<path d="M1090 249C1005 249 997 191 997 173C1053 173 1090 205 1090 249Z" fill="#C8CD9C"/>
+<path d="M1090 206C1175 206 1183 148 1183 130C1127 130 1090 162 1090 206Z" fill="#E5D9AD"/>
+<path d="M1090 158C1052 127 1062 88 1090 65C1118 88 1128 127 1090 158Z" fill="#F4F1E7"/>
+<path d="M1038 337H1142" stroke="#C8CD9C" stroke-width="2"/>
+<text x="62" y="64" fill="#555E36" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="4">GLEAN IMPACT</text>
+<text x="58" y="163" fill="#303922" font-family="Georgia, serif" font-size="59">Building businesses.</text>
+<text x="58" y="235" fill="#303922" font-family="Georgia, serif" font-size="59">Growing possibility.</text>
+<path d="M62 278H128" stroke="#929A62" stroke-width="3"/>
+<text x="62" y="323" fill="#515741" font-family="Arial, Helvetica, sans-serif" font-size="22">Technology, partnership, and capital for social good.</text>
+<text x="62" y="389" fill="#555E36" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2">INSPIRE GENEROSITY  /  BUILD CAPACITY  /  PARTNER TOGETHER</text>
+</svg>
